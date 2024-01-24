@@ -10,13 +10,14 @@ body{
     background-color: rgb(36, 36, 36);
 }
 body  h1{
+    float: left;
     border-bottom: solid gray 1px;
     width: 50dvw;
     position: relative;
     padding: 1rem;
     font-size: 40px;
     font-weight: 700;
-    top: -1.5rem;
+    top: 1rem;
 }
 main, body p{
     text-indent: 2rem;
