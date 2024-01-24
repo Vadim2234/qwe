@@ -12,7 +12,7 @@ body{
 body  h1{
     float: left;
     border-bottom: solid gray 1px;
-    width: 50dvw;
+    width: fit-content;
     position: relative;
     padding: 1rem;
     font-size: 40px;
